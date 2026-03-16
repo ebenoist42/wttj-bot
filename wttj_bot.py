@@ -8,7 +8,7 @@ from datetime import datetime
 # CONFIGURATION - Modifie ces valeurs
 # ============================================================
 
-DISCORD_WEBHOOK_URL = "COLLE_TON_WEBHOOK_DISCORD_ICI"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1483091697284939817/u4P7ykolPQeUuKII846P0THtMwZFwVYraaRjjbRpAtq--Pdw794o2LdQyqR7DPiSoNg6"
 
 # Mots-clés à chercher
 SEARCH_QUERY = "cyber"
